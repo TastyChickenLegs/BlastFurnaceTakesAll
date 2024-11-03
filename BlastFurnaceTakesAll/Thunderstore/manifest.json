@@ -1,0 +1,9 @@
+{
+  "name": "BlastFurnaceTakesAll",
+  "description": "Blast Furnace smelts all ore including copperscrap and Iron Ore.  Updated for Mistlands Original mod by tueman",
+  "version_number": "1.0.9",
+  "website_url": "https://valheim.thunderstore.io/package/TastyChickenLegs/",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2102"
+  ]
+}

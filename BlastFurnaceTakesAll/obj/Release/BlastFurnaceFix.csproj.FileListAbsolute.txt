@@ -1,0 +1,210 @@
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\BlastFurnaceTakesAll.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\BlastFurnaceTakesAll.pdb
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\0Harmony.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\assembly_valheim_publicized.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\BepInEx.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.CoreModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.UI.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\Mono.Cecil.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\MonoMod.Utils.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\MonoMod.RuntimeDetour.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.AnimationModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.PhysicsModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.ParticleSystemModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.AudioModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.ClothModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.UIModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.AIModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.AndroidJNIModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.InputLegacyModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.Physics2DModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.AssetBundleModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.SharedInternalsModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.TextRenderingModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.TilemapModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.TerrainModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.IMGUIModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.VFXModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.VideoModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.VRModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.GridModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.SubsystemsModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.DirectorModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.SpriteShapeModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.UIElementsNativeModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.XRModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\UnityEngine.InputModule.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\0Harmony.xml
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\BepInEx.xml
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\MonoMod.Utils.xml
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\bin\Release\MonoMod.RuntimeDetour.xml
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\obj\Release\BlastFurnaceFix.csproj.AssemblyReference.cache
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\obj\Release\BlastFurnaceFix.csproj.CoreCompileInputs.cache
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\obj\Release\BlastFurnaceFix.csproj.CopyComplete
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\obj\Release\BlastFurnaceTakesAll.dll
+C:\Users\Mike Cook\source\repos\ValheimMods-main\BlastFurnaceFix\BlastFurnaceFix\obj\Release\BlastFurnaceTakesAll.pdb
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\BlastFurnaceTakesAll.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\BlastFurnaceTakesAll.pdb
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\0Harmony.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\assembly_guiutils_publicized.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\assembly_utils_publicized.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\assembly_valheim_publicized.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\BepInEx.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.CoreModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.UI.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\Mono.Cecil.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\MonoMod.Utils.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\MonoMod.RuntimeDetour.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.UIModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.PhysicsModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.AnimationModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.InputLegacyModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.IMGUIModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.ParticleSystemModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.ClothModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.AudioModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.AIModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.AssetBundleModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.DSPGraphModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.UnityCurlModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.TLSModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.UIElementsModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.AndroidJNIModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.AccessibilityModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.UnityConnectModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.Physics2DModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.SharedInternalsModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.TextRenderingModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.ClusterInputModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.ClusterRendererModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.CrashReportingModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.TilemapModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.TerrainModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.VFXModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.VideoModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.VRModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.GridModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.ImageConversionModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.SubsystemsModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.JSONSerializeModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.LocalizationModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.UNETModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.DirectorModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.VirtualTexturingModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.GameCenterModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.SpriteMaskModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.StreamingModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.TextCoreModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.SpriteShapeModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.UIElementsNativeModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.VehiclesModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.WindModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.XRModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.InputModule.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\0Harmony.xml
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\BepInEx.xml
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\MonoMod.Utils.xml
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\MonoMod.RuntimeDetour.xml
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\obj\Release\BlastFurnaceFix.csproj.AssemblyReference.cache
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\obj\Release\BlastFurnaceFix.csproj.CoreCompileInputs.cache
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\obj\Release\BlastFurnaceFix.csproj.CopyComplete
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\obj\Release\BlastFurnaceTakesAll.dll
+C:\Users\Mike Cook\source\repos\BlastFurnaceTakesAll\BlastFurnaceFix\obj\Release\BlastFurnaceTakesAll.pdb
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\BlastFurnaceTakesAll.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\BlastFurnaceTakesAll.pdb
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\obj\Release\BlastFurnaceFix.csproj.AssemblyReference.cache
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\obj\Release\BlastFurnaceFix.csproj.CoreCompileInputs.cache
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\obj\Release\BlastFur.A068465D.Up2Date
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\obj\Release\BlastFurnaceTakesAll.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\obj\Release\BlastFurnaceTakesAll.pdb
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\0Harmony.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\assembly_guiutils_publicized.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\assembly_utils_publicized.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\assembly_valheim_publicized.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\BepInEx.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.CoreModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.UI.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\Mono.Cecil.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\MonoMod.Utils.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\MonoMod.RuntimeDetour.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.UIModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.PhysicsModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.AnimationModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.ClothModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.InputLegacyModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.IMGUIModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.ParticleSystemModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.AudioModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.AIModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.UnityWebRequestModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.ImageConversionModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.ScreenCaptureModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.UnityWebRequestTextureModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\netstandard.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.DSPGraphModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.UnityCurlModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.ContentLoadModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.PropertiesModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.TLSModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.AndroidJNIModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.AccessibilityModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.UnityConnectModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.UnityAnalyticsModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.UnityAnalyticsCommonModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.PerformanceReportingModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.Physics2DModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.AssetBundleModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.SharedInternalsModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.TextRenderingModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.ClusterInputModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.ClusterRendererModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.CrashReportingModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.TilemapModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.TerrainModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.VFXModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.VideoModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.VRModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.GridModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.SubsystemsModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.JSONSerializeModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.LocalizationModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.UnityWebRequestAudioModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.UnityWebRequestWWWModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.NVIDIAModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.DirectorModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.VirtualTexturingModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.GameCenterModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.SpriteMaskModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.StreamingModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.TerrainPhysicsModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.TextCoreFontEngineModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.TextCoreTextEngineModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.SpriteShapeModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.UIElementsModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.VehiclesModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.WindModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.XRModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.ARModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\UnityEngine.InputModule.dll
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\0Harmony.xml
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\BepInEx.xml
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\MonoMod.Utils.xml
+D:\newsource\repos\BlastFurnaceTakesAll\BlastFurnaceFix\bin\Release\MonoMod.RuntimeDetour.xml
